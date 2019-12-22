@@ -1,0 +1,24 @@
+MoneyChords
+Table of Keys
+
+In the two tables of keys below, the first column of each box shows the key.
+The second column shows the number of sharps (#) or flats (b). Subsequent
+columns indicate the notes that are sharp or flat.
+Key	#s	Notes
+C	0#	 	 	 	 	 	 	 
+G	1#	F#	 	 	 	 	 	 
+D	2#	F#	C#	 	 	 	 	 
+A	3#	F#	C#	G#	 	 	 	 
+E	4#	F#	C#	G#	D#	 	 	 
+B	5#	F#	C#	G#	D#	A#	 	 
+F#	6#	F#	C#	G#	D#	A#	E#	 
+C#	7#	F#	C#	G#	D#	A#	E#	B#
+Key	bs	Notes
+C	0b	 	 	 	 	 	 	 
+F	1b	Bb	 	 	 	 	 	 
+Bb	2b	Bb	Eb	 	 	 	 	 
+Eb	3b	Bb	Eb	Ab	 	 	 	 
+Ab	4b	Bb	Eb	Ab	Db	 	 	 
+Db	5b	Bb	Eb	Ab	Db	Gb	 	 
+Gb	6b	Bb	Eb	Ab	Db	Gb	Cb	 
+Cb	7b	Bb	Eb	Ab	Db	Gb	Cb	Fb
